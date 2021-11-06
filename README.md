@@ -1,5 +1,5 @@
 # Programming Homework #2
- - Auto ML for classification
+ - Auto ML for clustering
 
 ## findBestClusterOptions
 - Goal: This function will try combinations of the various models automatically.
